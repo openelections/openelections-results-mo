@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:38:05.555000,mo-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State House,39,"Morgan, Judy",,,,,,,Missouri,ocd-division/country:us/state:mo,2663,,,,,2011
+2015-11-07 22:38:05.555000,mo-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State House,39,"Landes, Jamie Barker",,,,,,,Missouri,ocd-division/country:us/state:mo,778,,,,,2011

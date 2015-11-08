@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:41:48.064000,mo-2009-11-03-special-general,2009-11-03 00:00:00,2009-11-03 00:00:00,general,certified,True,State House,73,"Newman, Stacey",,,,,,,St. Louis,ocd-division/country:us/state:mo/county:st._louis,3634,,,,,2009
+2015-11-07 22:41:48.064000,mo-2009-11-03-special-general,2009-11-03 00:00:00,2009-11-03 00:00:00,general,certified,True,State House,73,"O'Sullivan Jr., Daniel F.",,,,,,,St. Louis,ocd-division/country:us/state:mo/county:st._louis,2300,,,,,2009
+2015-11-07 22:41:48.064000,mo-2009-11-03-special-general,2009-11-03 00:00:00,2009-11-03 00:00:00,general,certified,True,State Senate,4,"Keaveny, Joe",,,,,,,St. Louis,ocd-division/country:us/state:mo/county:st._louis,4976,,,,,2009

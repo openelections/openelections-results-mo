@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,16,"Parkinson, Mark A.",,,,,,,Clay,ocd-division/country:us/state:mo/county:clay,5139,,,,,2008
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,16,"Fann, Tom",,,,,,,Clay,ocd-division/country:us/state:mo/county:clay,4824,,,,,2008
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,65,"Kratky, Michele",,,,,,,St. Charles,ocd-division/country:us/state:mo/county:st._charles,7169,,,,,2008

@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State Senate,11,Victor Callahan,,,,,,,Missouri,ocd-division/country:us/state:mo,5738,,,,,2003
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State Senate,11,Lynn Vogel,,,,,,,Missouri,ocd-division/country:us/state:mo,2529,,,,,2003
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State Senate,11,Sharon Kelley,,,,,,,Missouri,ocd-division/country:us/state:mo,989,,,,,2003
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State House,162,Terry Swinger,,,,,,,Missouri,ocd-division/country:us/state:mo,2110,,,,,2003
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State House,162,Bill Wagner,,,,,,,Missouri,ocd-division/country:us/state:mo,794,,,,,2003
+2015-11-07 22:46:33.982000,mo-2003-11-04-special-general,2003-11-04 00:00:00,2003-11-04 00:00:00,general,certified,True,State House,162,Shirley T. Johnson,,,,,,,Missouri,ocd-division/country:us/state:mo,587,,,,,2003

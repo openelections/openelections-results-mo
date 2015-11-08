@@ -1,0 +1,9 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State Senate,29,"Goodman, Jack",,,,,,,Missouri,ocd-division/country:us/state:mo,13817,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State Senate,29,"McNeill, Nolan G.",,,,,,,Missouri,ocd-division/country:us/state:mo,6397,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State Senate,29,"Hempker, Robert E.",,,,,,,Missouri,ocd-division/country:us/state:mo,779,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State House,150,"Smith, Jason T.",,,,,,,Missouri,ocd-division/country:us/state:mo,3269,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State House,150,"Simpson, Bobby",,,,,,,Missouri,ocd-division/country:us/state:mo,2669,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State House,150,"Caudill, Brent K.",,,,,,,Missouri,ocd-division/country:us/state:mo,106,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State House,94,"Byrd, Moira",,,,,,,Missouri,ocd-division/country:us/state:mo,3600,,,,,2005
+2015-11-07 22:44:25.262000,mo-2005-11-08-special-general,2005-11-08 00:00:00,2005-11-08 00:00:00,general,certified,True,State House,94,"Bogetto, Jane",,,,,,,Missouri,ocd-division/country:us/state:mo,4886,,,,,2005

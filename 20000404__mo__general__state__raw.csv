@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:48:06.510000,mo-2000-04-04-special-general,2000-04-04 00:00:00,2000-04-04 00:00:00,general,certified,True,State House,37,"Sanders Brooks, Sharon",,,,,,,Missouri,ocd-division/country:us/state:mo,912,,,,,2000
+2015-11-07 22:48:06.510000,mo-2000-04-04-special-general,2000-04-04 00:00:00,2000-04-04 00:00:00,general,certified,True,State House,37,"Zapien-Pina, Annalisa",,,,,,,Missouri,ocd-division/country:us/state:mo,114,,,,,2000
+2015-11-07 22:48:06.510000,mo-2000-04-04-special-general,2000-04-04 00:00:00,2000-04-04 00:00:00,general,certified,True,State House,37,"Tolbert, Richard",,,,,,,Missouri,ocd-division/country:us/state:mo,46,,,,,2000
+2015-11-07 22:48:06.510000,mo-2000-04-04-special-general,2000-04-04 00:00:00,2000-04-04 00:00:00,general,certified,True,State House,37,"Baheyadeen, Aasim",,,,,,,Missouri,ocd-division/country:us/state:mo,368,,,,,2000

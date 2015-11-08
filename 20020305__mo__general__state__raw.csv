@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:47:00.042000,mo-2002-03-05-special-general,2002-03-05 00:00:00,2002-03-05 00:00:00,general,certified,True,State House,66,"Paone, Toby W.",,,,,,,Missouri,ocd-division/country:us/state:mo,1116,,,,,2002
+2015-11-07 22:47:00.042000,mo-2002-03-05-special-general,2002-03-05 00:00:00,2002-03-05 00:00:00,general,certified,True,State House,66,"Baur Sr., William Robert",,,,,,,Missouri,ocd-division/country:us/state:mo,500,,,,,2002

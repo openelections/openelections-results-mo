@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,158,"Kasten, Mary C.",,,,,,,Missouri,ocd-division/country:us/state:mo,4439,,,,,2008
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,158,"Keefe, Mike",,,,,,,Missouri,ocd-division/country:us/state:mo,3834,,,,,2008
+2015-11-07 22:42:08.390000,mo-2008-02-05-special-general,2008-02-05 00:00:00,2008-02-05 00:00:00,general,certified,True,State House,158,"Kinder, Steve",,,,,,,Missouri,ocd-division/country:us/state:mo,563,,,,,2008

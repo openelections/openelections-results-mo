@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:44:01.903000,mo-2006-04-04-special-general,2006-04-04 00:00:00,2006-04-04 00:00:00,general,certified,True,State Senate,2,"Rupp, Scott T.",,,,,,,St. Charles,ocd-division/country:us/state:mo/county:st._charles,18289,,,,,2006
+2015-11-07 22:44:01.903000,mo-2006-04-04-special-general,2006-04-04 00:00:00,2006-04-04 00:00:00,general,certified,True,State Senate,2,"Henke, Wayne J.",,,,,,,St. Charles,ocd-division/country:us/state:mo/county:st._charles,15770,,,,,2006

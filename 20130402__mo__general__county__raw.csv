@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:30:56.073000,mo-2013-04-02-special-general,2013-04-02 00:00:00,2013-04-02 00:00:00,general,certified,True,State House,76,Joshua Peters,,,,,,,St. Louis City,ocd-division/country:us/state:mo/county:st._louis_city,1744,,,,,2013
+2015-11-07 22:30:56.073000,mo-2013-04-02-special-general,2013-04-02 00:00:00,2013-04-02 00:00:00,general,certified,True,State House,157,Charles A. Dake,,,,,,,Lawrence,ocd-division/country:us/state:mo/county:lawrence,2507,,,,,2013
+2015-11-07 22:30:56.073000,mo-2013-04-02-special-general,2013-04-02 00:00:00,2013-04-02 00:00:00,general,certified,True,State House,157,Mike Moon,,,,,,,Lawrence,ocd-division/country:us/state:mo/county:lawrence,3668,,,,,2013

@@ -1,0 +1,9 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,22,Bill Alter,,,,,,,Missouri,ocd-division/country:us/state:mo,6865,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,22,Rick Johnson,,,,,,,Missouri,ocd-division/country:us/state:mo,6797,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,22,Harold R. Selby,,,,,,,Missouri,ocd-division/country:us/state:mo,6277,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,22,Zip Rzeppa,,,,,,,Missouri,ocd-division/country:us/state:mo,2854,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State House,38,Ryan Silvey,,,,,,,Missouri,ocd-division/country:us/state:mo,3468,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State House,38,Teresa Loar,,,,,,,Missouri,ocd-division/country:us/state:mo,3255,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,16,Bill Hickle,,,,,,,Missouri,ocd-division/country:us/state:mo,11686,,,,,2005
+2015-11-07 22:44:26.259000,mo-2005-04-05-special-general,2005-04-05 00:00:00,2005-04-05 00:00:00,general,certified,True,State Senate,16,Frank A. Barnitz,,,,,,,Missouri,ocd-division/country:us/state:mo,13236,,,,,2005

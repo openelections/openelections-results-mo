@@ -1,0 +1,8 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,93,"Scharnhorst, Dwight D.",,,,,,,Missouri,ocd-division/country:us/state:mo,2422,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,93,"Frank, Genevieve",,,,,,,Missouri,ocd-division/country:us/state:mo,2247,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,105,"Groom, Ed",,,,,,,Missouri,ocd-division/country:us/state:mo,1785,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,105,"Frame, Michael R.",,,,,,,Missouri,ocd-division/country:us/state:mo,1922,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,105,"Ford, Richard E. (Rich)",,,,,,,Missouri,ocd-division/country:us/state:mo,490,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,132,"Seifried, Eric",,,,,,,Missouri,ocd-division/country:us/state:mo,1631,,,,,2006
+2015-11-07 22:44:03.529000,mo-2006-02-07-special-general,2006-02-07 00:00:00,2006-02-07 00:00:00,general,certified,True,State House,132,"Dake, Charles",,,,,,,Missouri,ocd-division/country:us/state:mo,2035,,,,,2006

@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,4,"Dougherty, Patrick",,,,,,,Missouri,ocd-division/country:us/state:mo,6539,,,,,2001
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,4,"Billingsly, Z. Dwight",,,,,,,Missouri,ocd-division/country:us/state:mo,1257,,,,,2001
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,12,"Relford, Randall",,,,,,,Missouri,ocd-division/country:us/state:mo,8678,,,,,2001
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,12,"Klindt, David G.",,,,,,,Missouri,ocd-division/country:us/state:mo,16937,,,,,2001
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,18,"Clayton, Robert",,,,,,,Missouri,ocd-division/country:us/state:mo,15658,,,,,2001
+2015-11-07 22:47:42.284000,mo-2001-01-24-special-general,2001-01-24 00:00:00,2001-01-24 00:00:00,general,certified,True,State Senate,18,"Cauthorn, John W.",,,,,,,Missouri,ocd-division/country:us/state:mo,18502,,,,,2001

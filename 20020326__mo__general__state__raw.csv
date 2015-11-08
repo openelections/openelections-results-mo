@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:46:59.103000,mo-2002-03-26-special-general,2002-03-26 00:00:00,2002-03-26 00:00:00,general,certified,True,State House,63,Robin Wright Jones,,,,,,,Missouri,ocd-division/country:us/state:mo,533,,,,,2002
+2015-11-07 22:46:59.103000,mo-2002-03-26-special-general,2002-03-26 00:00:00,2002-03-26 00:00:00,general,certified,True,State House,58,Anthony (Ford) Walker,,,,,,,Missouri,ocd-division/country:us/state:mo,250,,,,,2002
+2015-11-07 22:46:59.103000,mo-2002-03-26-special-general,2002-03-26 00:00:00,2002-03-26 00:00:00,general,certified,True,State House,58,Isaiah Hair Jr.,,,,,,,Missouri,ocd-division/country:us/state:mo,80,,,,,2002

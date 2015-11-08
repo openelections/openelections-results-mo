@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:47:36.605000,mo-2001-12-11-special-general,2001-12-11 00:00:00,2001-12-11 00:00:00,general,certified,True,State Senate,3,"McFall, Robert H.",,,,,,,Missouri,ocd-division/country:us/state:mo,337,,,,,2001
+2015-11-07 22:47:36.605000,mo-2001-12-11-special-general,2001-12-11 00:00:00,2001-12-11 00:00:00,general,certified,True,State Senate,3,"Hoffman, Matt",,,,,,,Missouri,ocd-division/country:us/state:mo,3283,,,,,2001
+2015-11-07 22:47:36.605000,mo-2001-12-11-special-general,2001-12-11 00:00:00,2001-12-11 00:00:00,general,certified,True,State Senate,3,"Kennedy, Harry",,,,,,,Missouri,ocd-division/country:us/state:mo,7707,,,,,2001

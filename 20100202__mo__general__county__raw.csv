@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:41:24.853000,mo-2010-02-02-special-general,2010-02-02 00:00:00,2010-02-02 00:00:00,general,certified,True,State House,27,"Conway, Pat",,,,,,,Jackson,ocd-division/country:us/state:mo/county:jackson,1240,,,,,2010
+2015-11-07 22:41:24.853000,mo-2010-02-02-special-general,2010-02-02 00:00:00,2010-02-02 00:00:00,general,certified,True,State House,27,"Gregory, Jason",,,,,,,Jackson,ocd-division/country:us/state:mo/county:jackson,655,,,,,2010

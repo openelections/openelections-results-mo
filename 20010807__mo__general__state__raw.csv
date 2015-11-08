@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,3,"Whorton, Jim",,,,,,,Missouri,ocd-division/country:us/state:mo,3539,,,,,2001
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,3,"Moulthrop, Roscoe",,,,,,,Missouri,ocd-division/country:us/state:mo,3252,,,,,2001
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,7,"Sugg, Deron L.",,,,,,,Missouri,ocd-division/country:us/state:mo,3753,,,,,2001
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,7,"Quinn, John",,,,,,,Missouri,ocd-division/country:us/state:mo,3960,,,,,2001
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,67,"Daus, Mike",,,,,,,Missouri,ocd-division/country:us/state:mo,1008,,,,,2001
+2015-11-07 22:47:40.422000,mo-2001-08-07-special-general,2001-08-07 00:00:00,2001-08-07 00:00:00,general,certified,True,State House,67,"Morris, John M.",,,,,,,Missouri,ocd-division/country:us/state:mo,160,,,,,2001
